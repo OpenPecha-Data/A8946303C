@@ -1,0 +1,19 @@
+segment_sources:
+  I49C51117:
+    type: origin_type
+    relation: translation
+    language: en
+  IEA978EEF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c0e797882c5c4ef79e23c464b41d73cd:
+    I49C51117: 608284f712aa47fa831ff0b08e9ab809
+    IEA978EEF: e345f538769a4e4589b587c0dce7f4b1
+  60a4a3d346d24fbc9b2df6341ec04cc6:
+    I49C51117: cd5facd3582c4bd690b152f910d8b2aa
+    IEA978EEF: 75fc6f189e534039b85fa3ddbecc7068
+  60fdac4f61d74933b0378d13fc036bd5:
+    I49C51117: d5a1aa2fe0bc4a588e06701294424bd8
+    IEA978EEF: 361fba863dcf4415a0f83c67f93bd75f
